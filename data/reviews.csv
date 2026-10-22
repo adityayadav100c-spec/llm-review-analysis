@@ -1,0 +1,13 @@
+review_id,review,sentiment
+1,"The staff explained every option clearly and made buying my first car easy.",positive
+2,"The salesperson was friendly and answered all my questions.",positive
+3,"The car was clean and the test drive was a great experience.",positive
+4,"They fixed the small issue quickly and kept me updated.",positive
+5,"The service team was helpful and finished the inspection early.",positive
+6,"I love the car, but the paperwork took much longer than expected.",positive
+7,"Nobody returned my call and I waited an hour after my appointment.",negative
+8,"The quoted price changed when I arrived at the dealership.",negative
+9,"The repair was not completed and I had to book another appointment.",negative
+10,"The staff were dismissive when I asked about the warranty.",negative
+11,"There was a scratch on delivery that had not been mentioned.",negative
+12,"The service appointment ran late and no one explained the delay.",negative
