@@ -1,0 +1,601 @@
+review_id,review,sentiment,theme,is_synthetic
+synthetic-00548,"During the service appointment, the advisor explained the cost before starting the repair I appreciated the clear communication.",positive,pricing,true
+synthetic-00033,"When I picked up the car, staff answered my questions without pressuring me I appreciated the clear communication.",positive,sales_process,true
+synthetic-00256,"For a first-time buyer, the original problem remained after the repair appointment I would ask for everything in writing next time.",negative,service_quality,true
+synthetic-00535,"At my recent visit, the invoice matched the written estimate and had no surprise fees I would use this dealership again.",positive,pricing,true
+synthetic-00166,"In my experience, the car had a warning light that was not mentioned in the listing The experience needs improvement.",negative,vehicle_condition,true
+synthetic-00133,"When I picked up the car, the car was clean, inspected, and ready for the test drive The experience met my expectations.",positive,vehicle_condition,true
+synthetic-00385,"After comparing a few options, i waited an hour past my appointment with no update I would not recommend this process.",negative,wait_time,true
+synthetic-00238,"When I picked up the car, the inspection was thorough and the staff kept me informed I would recommend the team.",positive,service_quality,true
+synthetic-00365,"When I picked up the car, i waited an hour past my appointment with no update The experience needs improvement.",negative,wait_time,true
+synthetic-00450,"During the service appointment, i received a prompt callback and helpful answers I appreciated the clear communication.",positive,communication,true
+synthetic-00223,"When I picked up the car, the technician explained what was fixed in plain language I would recommend the team.",positive,service_quality,true
+synthetic-00213,"In my experience, the technician explained what was fixed in plain language I appreciated the clear communication.",positive,service_quality,true
+synthetic-00386,"At my recent visit, i waited an hour past my appointment with no update I would ask for everything in writing next time.",negative,wait_time,true
+synthetic-00595,"For a first-time buyer, several fees appeared on the contract without explanation I would ask for everything in writing next time.",negative,pricing,true
+synthetic-00082,"At my recent visit, i felt rushed and nobody explained the extra fees The experience needs improvement.",negative,sales_process,true
+synthetic-00207,"For a first-time buyer, the inspection was thorough and the staff kept me informed I would recommend the team.",positive,service_quality,true
+synthetic-00225,"After speaking with the advisor, the service team diagnosed the issue and finished the repair on time I appreciated the clear communication.",positive,service_quality,true
+synthetic-00334,"During the service appointment, the team gave me an accurate estimate and finished early I would recommend the team.",positive,wait_time,true
+synthetic-00229,"After speaking with the advisor, the service team diagnosed the issue and finished the repair on time The experience met my expectations.",positive,service_quality,true
+synthetic-00241,"During the service appointment, the service team diagnosed the issue and finished the repair on time I would use this dealership again.",positive,service_quality,true
+synthetic-00333,"At my recent visit, the team gave me an accurate estimate and finished early I appreciated the clear communication.",positive,wait_time,true
+synthetic-00551,"After speaking with the advisor, several fees appeared on the contract without explanation I would not recommend this process.",negative,pricing,true
+synthetic-00113,"For this particular repair, delivery was well prepared and the car looked excellent I appreciated the clear communication.",positive,vehicle_condition,true
+synthetic-00073,"For a first-time buyer, the quoted price changed after I arrived at the dealership I still need the issue resolved.",negative,sales_process,true
+synthetic-00556,"For this particular repair, several fees appeared on the contract without explanation I would ask for everything in writing next time.",negative,pricing,true
+synthetic-00277,"For this particular repair, the service department did not explain the extra work on my invoice I would ask for everything in writing next time.",negative,service_quality,true
+synthetic-00137,"After comparing a few options, delivery was well prepared and the car looked excellent I appreciated the clear communication.",positive,vehicle_condition,true
+synthetic-00308,"After speaking with the advisor, my appointment started on time and the inspection was quick I would recommend the team.",positive,wait_time,true
+synthetic-00303,"When I picked up the car, the team gave me an accurate estimate and finished early I appreciated the clear communication.",positive,wait_time,true
+synthetic-00086,"At my recent visit, the quoted price changed after I arrived at the dealership I would ask for everything in writing next time.",negative,sales_process,true
+synthetic-00435,"After speaking with the advisor, i received a prompt callback and helpful answers I would recommend the team.",positive,communication,true
+synthetic-00504,"For a first-time buyer, the invoice matched the written estimate and had no surprise fees The experience met my expectations.",positive,pricing,true
+synthetic-00459,"For a first-time buyer, i had to repeat my issue to several different employees I still need the issue resolved.",negative,communication,true
+synthetic-00292,"At my recent visit, the original problem remained after the repair appointment I still need the issue resolved.",negative,service_quality,true
+synthetic-00319,"For this particular repair, the waiting area was comfortable during a short service visit I would recommend the team.",positive,wait_time,true
+synthetic-00302,"When I picked up the car, the team gave me an accurate estimate and finished early I would recommend the team.",positive,wait_time,true
+synthetic-00342,"At my recent visit, my appointment started on time and the inspection was quick I appreciated the clear communication.",positive,wait_time,true
+synthetic-00042,"When I picked up the car, the salesperson explained every option and gave me time to decide I appreciated the clear communication.",positive,sales_process,true
+synthetic-00434,"For a first-time buyer, i received a prompt callback and helpful answers I would recommend the team.",positive,communication,true
+synthetic-00281,"After comparing a few options, i had to book a second visit because the repair was incomplete I still need the issue resolved.",negative,service_quality,true
+synthetic-00232,"In my experience, the inspection was thorough and the staff kept me informed I would use this dealership again.",positive,service_quality,true
+synthetic-00092,"At my recent visit, the salesperson ignored my questions about the vehicle history I would not recommend this process.",negative,sales_process,true
+synthetic-00004,"After comparing a few options, staff answered my questions without pressuring me I appreciated the clear communication.",positive,sales_process,true
+synthetic-00376,"When I picked up the car, the repair took all day and nobody called to explain the delay I still need the issue resolved.",negative,wait_time,true
+synthetic-00444,"In my experience, the team explained the warranty and next steps clearly I would recommend the team.",positive,communication,true
+synthetic-00249,"At my recent visit, the service team diagnosed the issue and finished the repair on time The experience met my expectations.",positive,service_quality,true
+synthetic-00455,"In my experience, nobody returned my call about the repair estimate I still need the issue resolved.",negative,communication,true
+synthetic-00381,"For a first-time buyer, the check-in line was long and the promised pickup time was missed I still need the issue resolved.",negative,wait_time,true
+synthetic-00494,"During the service appointment, the dealership gave conflicting updates about when the car would be ready The experience needs improvement.",negative,communication,true
+synthetic-00406,"After speaking with the advisor, i received a prompt callback and helpful answers I would recommend the team.",positive,communication,true
+synthetic-00151,"For this particular repair, the vehicle was not ready when I arrived for pickup I still need the issue resolved.",negative,vehicle_condition,true
+synthetic-00552,"During the service appointment, the repair cost much more than the estimate with no prior call I would ask for everything in writing next time.",negative,pricing,true
+synthetic-00581,"For a first-time buyer, the repair cost much more than the estimate with no prior call I would not recommend this process.",negative,pricing,true
+synthetic-00438,"At my recent visit, the team explained the warranty and next steps clearly I would recommend the team.",positive,communication,true
+synthetic-00044,"When I picked up the car, staff answered my questions without pressuring me The experience met my expectations.",positive,sales_process,true
+synthetic-00498,"For a first-time buyer, the dealership gave conflicting updates about when the car would be ready The experience needs improvement.",negative,communication,true
+synthetic-00187,"During the service appointment, the vehicle was not ready when I arrived for pickup I would not recommend this process.",negative,vehicle_condition,true
+synthetic-00222,"When I picked up the car, the technician explained what was fixed in plain language I would use this dealership again.",positive,service_quality,true
+synthetic-00190,"During the service appointment, the vehicle was not ready when I arrived for pickup I would not recommend this process.",negative,vehicle_condition,true
+synthetic-00037,"During the service appointment, the salesperson explained every option and gave me time to decide I appreciated the clear communication.",positive,sales_process,true
+synthetic-00446,"For this particular repair, the service advisor sent clear updates throughout the repair I would recommend the team.",positive,communication,true
+synthetic-00315,"During the service appointment, the waiting area was comfortable during a short service visit I would recommend the team.",positive,wait_time,true
+synthetic-00169,"For a first-time buyer, the vehicle was not ready when I arrived for pickup I would ask for everything in writing next time.",negative,vehicle_condition,true
+synthetic-00472,"For a first-time buyer, the dealership gave conflicting updates about when the car would be ready I would ask for everything in writing next time.",negative,communication,true
+synthetic-00542,"After speaking with the advisor, the advisor explained the cost before starting the repair I appreciated the clear communication.",positive,pricing,true
+synthetic-00065,"For this particular repair, the salesperson ignored my questions about the vehicle history I still need the issue resolved.",negative,sales_process,true
+synthetic-00142,"In my experience, delivery was well prepared and the car looked excellent I would recommend the team.",positive,vehicle_condition,true
+synthetic-00265,"For a first-time buyer, the original problem remained after the repair appointment I still need the issue resolved.",negative,service_quality,true
+synthetic-00028,"After speaking with the advisor, the buying process was clear and the final paperwork matched the quote I would use this dealership again.",positive,sales_process,true
+synthetic-00101,"In my experience, the car was clean, inspected, and ready for the test drive I would use this dealership again.",positive,vehicle_condition,true
+synthetic-00157,"For a first-time buyer, there was an undisclosed scratch on the car at delivery The experience needs improvement.",negative,vehicle_condition,true
+synthetic-00307,"For a first-time buyer, the waiting area was comfortable during a short service visit I appreciated the clear communication.",positive,wait_time,true
+synthetic-00230,"In my experience, the technician explained what was fixed in plain language I appreciated the clear communication.",positive,service_quality,true
+synthetic-00263,"For a first-time buyer, the original problem remained after the repair appointment I would ask for everything in writing next time.",negative,service_quality,true
+synthetic-00160,"After speaking with the advisor, the vehicle was not ready when I arrived for pickup I still need the issue resolved.",negative,vehicle_condition,true
+synthetic-00007,"For a first-time buyer, staff answered my questions without pressuring me I appreciated the clear communication.",positive,sales_process,true
+synthetic-00217,"For a first-time buyer, the technician explained what was fixed in plain language I would recommend the team.",positive,service_quality,true
+synthetic-00521,"For a first-time buyer, the advisor explained the cost before starting the repair I would use this dealership again.",positive,pricing,true
+synthetic-00155,"When I picked up the car, there was an undisclosed scratch on the car at delivery I still need the issue resolved.",negative,vehicle_condition,true
+synthetic-00473,"For this particular repair, the dealership gave conflicting updates about when the car would be ready I still need the issue resolved.",negative,communication,true
+synthetic-00013,"In my experience, the buying process was clear and the final paperwork matched the quote I would use this dealership again.",positive,sales_process,true
+synthetic-00533,"After comparing a few options, the advisor explained the cost before starting the repair I would use this dealership again.",positive,pricing,true
+synthetic-00317,"After speaking with the advisor, the waiting area was comfortable during a short service visit I would recommend the team.",positive,wait_time,true
+synthetic-00537,"For this particular repair, the price was fair and every charge was itemized I appreciated the clear communication.",positive,pricing,true
+synthetic-00106,"During the service appointment, delivery was well prepared and the car looked excellent I would use this dealership again.",positive,vehicle_condition,true
+synthetic-00191,"After speaking with the advisor, the vehicle was not ready when I arrived for pickup I would ask for everything in writing next time.",negative,vehicle_condition,true
+synthetic-00054,"For this particular repair, the salesperson ignored my questions about the vehicle history I still need the issue resolved.",negative,sales_process,true
+synthetic-00322,"After comparing a few options, the waiting area was comfortable during a short service visit I appreciated the clear communication.",positive,wait_time,true
+synthetic-00285,"In my experience, the service department did not explain the extra work on my invoice I would not recommend this process.",negative,service_quality,true
+synthetic-00344,"For a first-time buyer, my appointment started on time and the inspection was quick I would use this dealership again.",positive,wait_time,true
+synthetic-00579,"After comparing a few options, several fees appeared on the contract without explanation I would ask for everything in writing next time.",negative,pricing,true
+synthetic-00356,"After speaking with the advisor, i waited an hour past my appointment with no update I would not recommend this process.",negative,wait_time,true
+synthetic-00184,"When I picked up the car, there was an undisclosed scratch on the car at delivery The experience needs improvement.",negative,vehicle_condition,true
+synthetic-00118,"At my recent visit, the vehicle matched the listing and drove smoothly I would use this dealership again.",positive,vehicle_condition,true
+synthetic-00059,"For a first-time buyer, the quoted price changed after I arrived at the dealership I would not recommend this process.",negative,sales_process,true
+synthetic-00544,"In my experience, the advisor explained the cost before starting the repair I would recommend the team.",positive,pricing,true
+synthetic-00383,"At my recent visit, the check-in line was long and the promised pickup time was missed I would ask for everything in writing next time.",negative,wait_time,true
+synthetic-00049,"After comparing a few options, the salesperson explained every option and gave me time to decide I would use this dealership again.",positive,sales_process,true
+synthetic-00437,"For a first-time buyer, the service advisor sent clear updates throughout the repair I appreciated the clear communication.",positive,communication,true
+synthetic-00283,"After speaking with the advisor, the service department did not explain the extra work on my invoice I would not recommend this process.",negative,service_quality,true
+synthetic-00122,"At my recent visit, the vehicle matched the listing and drove smoothly The experience met my expectations.",positive,vehicle_condition,true
+synthetic-00185,"At my recent visit, the vehicle was not ready when I arrived for pickup The experience needs improvement.",negative,vehicle_condition,true
+synthetic-00087,"At my recent visit, the quoted price changed after I arrived at the dealership The experience needs improvement.",negative,sales_process,true
+synthetic-00060,"At my recent visit, i felt rushed and nobody explained the extra fees I still need the issue resolved.",negative,sales_process,true
+synthetic-00290,"When I picked up the car, the original problem remained after the repair appointment I still need the issue resolved.",negative,service_quality,true
+synthetic-00474,"For this particular repair, nobody returned my call about the repair estimate I would not recommend this process.",negative,communication,true
+synthetic-00128,"For a first-time buyer, the vehicle matched the listing and drove smoothly The experience met my expectations.",positive,vehicle_condition,true
+synthetic-00352,"When I picked up the car, i waited an hour past my appointment with no update The experience needs improvement.",negative,wait_time,true
+synthetic-00159,"For a first-time buyer, the vehicle was not ready when I arrived for pickup The experience needs improvement.",negative,vehicle_condition,true
+synthetic-00536,"In my experience, the price was fair and every charge was itemized The experience met my expectations.",positive,pricing,true
+synthetic-00094,"In my experience, the quoted price changed after I arrived at the dealership I still need the issue resolved.",negative,sales_process,true
+synthetic-00364,"During the service appointment, i waited an hour past my appointment with no update I would not recommend this process.",negative,wait_time,true
+synthetic-00068,"After comparing a few options, the quoted price changed after I arrived at the dealership I would not recommend this process.",negative,sales_process,true
+synthetic-00051,"After comparing a few options, the quoted price changed after I arrived at the dealership I would not recommend this process.",negative,sales_process,true
+synthetic-00367,"During the service appointment, the check-in line was long and the promised pickup time was missed The experience needs improvement.",negative,wait_time,true
+synthetic-00023,"When I picked up the car, staff answered my questions without pressuring me I would recommend the team.",positive,sales_process,true
+synthetic-00514,"At my recent visit, the invoice matched the written estimate and had no surprise fees I would use this dealership again.",positive,pricing,true
+synthetic-00585,"During the service appointment, several fees appeared on the contract without explanation I would not recommend this process.",negative,pricing,true
+synthetic-00524,"For this particular repair, the invoice matched the written estimate and had no surprise fees I would recommend the team.",positive,pricing,true
+synthetic-00470,"After comparing a few options, nobody returned my call about the repair estimate The experience needs improvement.",negative,communication,true
+synthetic-00378,"For a first-time buyer, the check-in line was long and the promised pickup time was missed I would not recommend this process.",negative,wait_time,true
+synthetic-00070,"After speaking with the advisor, i felt rushed and nobody explained the extra fees The experience needs improvement.",negative,sales_process,true
+synthetic-00112,"When I picked up the car, the car was clean, inspected, and ready for the test drive The experience met my expectations.",positive,vehicle_condition,true
+synthetic-00239,"When I picked up the car, the service team diagnosed the issue and finished the repair on time The experience met my expectations.",positive,service_quality,true
+synthetic-00124,"For a first-time buyer, delivery was well prepared and the car looked excellent I would use this dealership again.",positive,vehicle_condition,true
+synthetic-00421,"During the service appointment, the service advisor sent clear updates throughout the repair I would use this dealership again.",positive,communication,true
+synthetic-00011,"In my experience, the salesperson explained every option and gave me time to decide I would recommend the team.",positive,sales_process,true
+synthetic-00220,"For this particular repair, the service team diagnosed the issue and finished the repair on time I would use this dealership again.",positive,service_quality,true
+synthetic-00097,"After comparing a few options, i felt rushed and nobody explained the extra fees I would not recommend this process.",negative,sales_process,true
+synthetic-00526,"After speaking with the advisor, the advisor explained the cost before starting the repair I would recommend the team.",positive,pricing,true
+synthetic-00587,"For this particular repair, several fees appeared on the contract without explanation The experience needs improvement.",negative,pricing,true
+synthetic-00464,"After comparing a few options, i had to repeat my issue to several different employees The experience needs improvement.",negative,communication,true
+synthetic-00108,"When I picked up the car, the car was clean, inspected, and ready for the test drive I appreciated the clear communication.",positive,vehicle_condition,true
+synthetic-00457,"In my experience, i had to repeat my issue to several different employees I still need the issue resolved.",negative,communication,true
+synthetic-00517,"During the service appointment, the advisor explained the cost before starting the repair I appreciated the clear communication.",positive,pricing,true
+synthetic-00399,"During the service appointment, i waited an hour past my appointment with no update I would ask for everything in writing next time.",negative,wait_time,true
+synthetic-00489,"When I picked up the car, i had to repeat my issue to several different employees I still need the issue resolved.",negative,communication,true
+synthetic-00447,"After speaking with the advisor, i received a prompt callback and helpful answers I appreciated the clear communication.",positive,communication,true
+synthetic-00218,"For this particular repair, the technician explained what was fixed in plain language The experience met my expectations.",positive,service_quality,true
+synthetic-00018,"For a first-time buyer, staff answered my questions without pressuring me I would use this dealership again.",positive,sales_process,true
+synthetic-00462,"For this particular repair, the dealership gave conflicting updates about when the car would be ready I would ask for everything in writing next time.",negative,communication,true
+synthetic-00371,"After speaking with the advisor, the check-in line was long and the promised pickup time was missed I would ask for everything in writing next time.",negative,wait_time,true
+synthetic-00516,"At my recent visit, the invoice matched the written estimate and had no surprise fees I would use this dealership again.",positive,pricing,true
+synthetic-00567,"For this particular repair, the repair cost much more than the estimate with no prior call I would not recommend this process.",negative,pricing,true
+synthetic-00565,"At my recent visit, the repair cost much more than the estimate with no prior call I still need the issue resolved.",negative,pricing,true
+synthetic-00012,"After speaking with the advisor, the salesperson explained every option and gave me time to decide I would recommend the team.",positive,sales_process,true
+synthetic-00291,"For this particular repair, the service department did not explain the extra work on my invoice The experience needs improvement.",negative,service_quality,true
+synthetic-00197,"At my recent visit, the car had a warning light that was not mentioned in the listing I would not recommend this process.",negative,vehicle_condition,true
+synthetic-00001,"After comparing a few options, staff answered my questions without pressuring me I would recommend the team.",positive,sales_process,true
+synthetic-00499,"When I picked up the car, the dealership gave conflicting updates about when the car would be ready The experience needs improvement.",negative,communication,true
+synthetic-00488,"In my experience, the dealership gave conflicting updates about when the car would be ready I would not recommend this process.",negative,communication,true
+synthetic-00006,"For a first-time buyer, the salesperson explained every option and gave me time to decide I would recommend the team.",positive,sales_process,true
+synthetic-00224,"For a first-time buyer, the inspection was thorough and the staff kept me informed I would recommend the team.",positive,service_quality,true
+synthetic-00428,"In my experience, the service advisor sent clear updates throughout the repair I would use this dealership again.",positive,communication,true
+synthetic-00505,"At my recent visit, the advisor explained the cost before starting the repair I appreciated the clear communication.",positive,pricing,true
+synthetic-00393,"When I picked up the car, the check-in line was long and the promised pickup time was missed The experience needs improvement.",negative,wait_time,true
+synthetic-00183,"For a first-time buyer, the car had a warning light that was not mentioned in the listing The experience needs improvement.",negative,vehicle_condition,true
+synthetic-00580,"During the service appointment, the repair cost much more than the estimate with no prior call I still need the issue resolved.",negative,pricing,true
+synthetic-00201,"For a first-time buyer, the inspection was thorough and the staff kept me informed I appreciated the clear communication.",positive,service_quality,true
+synthetic-00267,"During the service appointment, the original problem remained after the repair appointment I would ask for everything in writing next time.",negative,service_quality,true
+synthetic-00034,"After speaking with the advisor, staff answered my questions without pressuring me I would use this dealership again.",positive,sales_process,true
+synthetic-00205,"After speaking with the advisor, the technician explained what was fixed in plain language I appreciated the clear communication.",positive,service_quality,true
+synthetic-00015,"After comparing a few options, the buying process was clear and the final paperwork matched the quote I would use this dealership again.",positive,sales_process,true
+synthetic-00491,"For a first-time buyer, nobody returned my call about the repair estimate I still need the issue resolved.",negative,communication,true
+synthetic-00131,"In my experience, the vehicle matched the listing and drove smoothly I appreciated the clear communication.",positive,vehicle_condition,true
+synthetic-00527,"In my experience, the price was fair and every charge was itemized The experience met my expectations.",positive,pricing,true
+synthetic-00561,"During the service appointment, several fees appeared on the contract without explanation I would not recommend this process.",negative,pricing,true
+synthetic-00237,"For this particular repair, the service team diagnosed the issue and finished the repair on time I would use this dealership again.",positive,service_quality,true
+synthetic-00515,"In my experience, the invoice matched the written estimate and had no surprise fees The experience met my expectations.",positive,pricing,true
+synthetic-00600,"In my experience, the final bill included charges that were never approved I would not recommend this process.",negative,pricing,true
+synthetic-00114,"At my recent visit, delivery was well prepared and the car looked excellent I would recommend the team.",positive,vehicle_condition,true
+synthetic-00568,"During the service appointment, several fees appeared on the contract without explanation I would ask for everything in writing next time.",negative,pricing,true
+synthetic-00278,"After speaking with the advisor, the original problem remained after the repair appointment The experience needs improvement.",negative,service_quality,true
+synthetic-00043,"For this particular repair, the salesperson explained every option and gave me time to decide I would recommend the team.",positive,sales_process,true
+synthetic-00039,"For this particular repair, the buying process was clear and the final paperwork matched the quote I would use this dealership again.",positive,sales_process,true
+synthetic-00196,"For a first-time buyer, the vehicle was not ready when I arrived for pickup I would not recommend this process.",negative,vehicle_condition,true
+synthetic-00268,"When I picked up the car, i had to book a second visit because the repair was incomplete The experience needs improvement.",negative,service_quality,true
+synthetic-00312,"For this particular repair, my appointment started on time and the inspection was quick I would recommend the team.",positive,wait_time,true
+synthetic-00130,"When I picked up the car, the vehicle matched the listing and drove smoothly I would recommend the team.",positive,vehicle_condition,true
+synthetic-00199,"During the service appointment, the car had a warning light that was not mentioned in the listing I still need the issue resolved.",negative,vehicle_condition,true
+synthetic-00228,"After comparing a few options, the service team diagnosed the issue and finished the repair on time I would use this dealership again.",positive,service_quality,true
+synthetic-00029,"For a first-time buyer, the salesperson explained every option and gave me time to decide I would use this dealership again.",positive,sales_process,true
+synthetic-00557,"At my recent visit, the repair cost much more than the estimate with no prior call I would ask for everything in writing next time.",negative,pricing,true
+synthetic-00452,"After comparing a few options, i had to repeat my issue to several different employees I still need the issue resolved.",negative,communication,true
+synthetic-00508,"For this particular repair, the advisor explained the cost before starting the repair The experience met my expectations.",positive,pricing,true
+synthetic-00275,"At my recent visit, i had to book a second visit because the repair was incomplete I would ask for everything in writing next time.",negative,service_quality,true
+synthetic-00369,"During the service appointment, the check-in line was long and the promised pickup time was missed The experience needs improvement.",negative,wait_time,true
+synthetic-00368,"In my experience, the repair took all day and nobody called to explain the delay The experience needs improvement.",negative,wait_time,true
+synthetic-00135,"After speaking with the advisor, the car was clean, inspected, and ready for the test drive I would use this dealership again.",positive,vehicle_condition,true
+synthetic-00483,"After comparing a few options, i had to repeat my issue to several different employees I still need the issue resolved.",negative,communication,true
+synthetic-00284,"After comparing a few options, the service department did not explain the extra work on my invoice I would ask for everything in writing next time.",negative,service_quality,true
+synthetic-00175,"For a first-time buyer, there was an undisclosed scratch on the car at delivery The experience needs improvement.",negative,vehicle_condition,true
+synthetic-00534,"After comparing a few options, the invoice matched the written estimate and had no surprise fees I would use this dealership again.",positive,pricing,true
+synthetic-00326,"In my experience, the team gave me an accurate estimate and finished early I would use this dealership again.",positive,wait_time,true
+synthetic-00431,"At my recent visit, the team explained the warranty and next steps clearly I would recommend the team.",positive,communication,true
+synthetic-00522,"At my recent visit, the invoice matched the written estimate and had no surprise fees The experience met my expectations.",positive,pricing,true
+synthetic-00194,"When I picked up the car, the vehicle was not ready when I arrived for pickup I would not recommend this process.",negative,vehicle_condition,true
+synthetic-00121,"During the service appointment, the car was clean, inspected, and ready for the test drive The experience met my expectations.",positive,vehicle_condition,true
+synthetic-00351,"In my experience, the check-in line was long and the promised pickup time was missed I would ask for everything in writing next time.",negative,wait_time,true
+synthetic-00180,"At my recent visit, the vehicle was not ready when I arrived for pickup The experience needs improvement.",negative,vehicle_condition,true
+synthetic-00358,"When I picked up the car, the repair took all day and nobody called to explain the delay The experience needs improvement.",negative,wait_time,true
+synthetic-00389,"After speaking with the advisor, i waited an hour past my appointment with no update I would not recommend this process.",negative,wait_time,true
+synthetic-00156,"During the service appointment, there was an undisclosed scratch on the car at delivery I would not recommend this process.",negative,vehicle_condition,true
+synthetic-00577,"For this particular repair, several fees appeared on the contract without explanation I would not recommend this process.",negative,pricing,true
+synthetic-00578,"In my experience, several fees appeared on the contract without explanation I would ask for everything in writing next time.",negative,pricing,true
+synthetic-00040,"At my recent visit, staff answered my questions without pressuring me I would recommend the team.",positive,sales_process,true
+synthetic-00250,"When I picked up the car, the service team diagnosed the issue and finished the repair on time I would recommend the team.",positive,service_quality,true
+synthetic-00035,"During the service appointment, the salesperson explained every option and gave me time to decide I appreciated the clear communication.",positive,sales_process,true
+synthetic-00210,"After speaking with the advisor, the inspection was thorough and the staff kept me informed I would use this dealership again.",positive,service_quality,true
+synthetic-00439,"When I picked up the car, the service advisor sent clear updates throughout the repair The experience met my expectations.",positive,communication,true
+synthetic-00440,"When I picked up the car, the service advisor sent clear updates throughout the repair I would use this dealership again.",positive,communication,true
+synthetic-00095,"After speaking with the advisor, i felt rushed and nobody explained the extra fees I still need the issue resolved.",negative,sales_process,true
+synthetic-00414,"After speaking with the advisor, i received a prompt callback and helpful answers I would recommend the team.",positive,communication,true
+synthetic-00466,"At my recent visit, the dealership gave conflicting updates about when the car would be ready I would ask for everything in writing next time.",negative,communication,true
+synthetic-00405,"In my experience, i received a prompt callback and helpful answers I appreciated the clear communication.",positive,communication,true
+synthetic-00343,"For a first-time buyer, the team gave me an accurate estimate and finished early I would use this dealership again.",positive,wait_time,true
+synthetic-00080,"For this particular repair, i felt rushed and nobody explained the extra fees I still need the issue resolved.",negative,sales_process,true
+synthetic-00540,"For a first-time buyer, the advisor explained the cost before starting the repair I would recommend the team.",positive,pricing,true
+synthetic-00181,"At my recent visit, the vehicle was not ready when I arrived for pickup I would ask for everything in writing next time.",negative,vehicle_condition,true
+synthetic-00129,"For a first-time buyer, the car was clean, inspected, and ready for the test drive I appreciated the clear communication.",positive,vehicle_condition,true
+synthetic-00553,"After comparing a few options, the repair cost much more than the estimate with no prior call I would not recommend this process.",negative,pricing,true
+synthetic-00332,"When I picked up the car, the team gave me an accurate estimate and finished early I appreciated the clear communication.",positive,wait_time,true
+synthetic-00338,"For this particular repair, the team gave me an accurate estimate and finished early I would recommend the team.",positive,wait_time,true
+synthetic-00079,"During the service appointment, the quoted price changed after I arrived at the dealership The experience needs improvement.",negative,sales_process,true
+synthetic-00417,"For this particular repair, the team explained the warranty and next steps clearly The experience met my expectations.",positive,communication,true
+synthetic-00300,"For a first-time buyer, the service department did not explain the extra work on my invoice I still need the issue resolved.",negative,service_quality,true
+synthetic-00562,"For this particular repair, the final bill included charges that were never approved I would not recommend this process.",negative,pricing,true
+synthetic-00016,"In my experience, staff answered my questions without pressuring me The experience met my expectations.",positive,sales_process,true
+synthetic-00433,"For this particular repair, i received a prompt callback and helpful answers I appreciated the clear communication.",positive,communication,true
+synthetic-00337,"When I picked up the car, the team gave me an accurate estimate and finished early The experience met my expectations.",positive,wait_time,true
+synthetic-00538,"During the service appointment, the price was fair and every charge was itemized The experience met my expectations.",positive,pricing,true
+synthetic-00258,"During the service appointment, the original problem remained after the repair appointment I would not recommend this process.",negative,service_quality,true
+synthetic-00584,"In my experience, several fees appeared on the contract without explanation The experience needs improvement.",negative,pricing,true
+synthetic-00588,"After comparing a few options, the repair cost much more than the estimate with no prior call I still need the issue resolved.",negative,pricing,true
+synthetic-00324,"When I picked up the car, my appointment started on time and the inspection was quick I would recommend the team.",positive,wait_time,true
+synthetic-00186,"After speaking with the advisor, the vehicle was not ready when I arrived for pickup I still need the issue resolved.",negative,vehicle_condition,true
+synthetic-00150,"In my experience, delivery was well prepared and the car looked excellent I appreciated the clear communication.",positive,vehicle_condition,true
+synthetic-00402,"After speaking with the advisor, the team explained the warranty and next steps clearly I would recommend the team.",positive,communication,true
+synthetic-00085,"When I picked up the car, the quoted price changed after I arrived at the dealership I still need the issue resolved.",negative,sales_process,true
+synthetic-00331,"During the service appointment, the team gave me an accurate estimate and finished early The experience met my expectations.",positive,wait_time,true
+synthetic-00382,"In my experience, i waited an hour past my appointment with no update I still need the issue resolved.",negative,wait_time,true
+synthetic-00115,"During the service appointment, the car was clean, inspected, and ready for the test drive I would recommend the team.",positive,vehicle_condition,true
+synthetic-00500,"For a first-time buyer, nobody returned my call about the repair estimate I would ask for everything in writing next time.",negative,communication,true
+synthetic-00262,"When I picked up the car, i had to book a second visit because the repair was incomplete The experience needs improvement.",negative,service_quality,true
+synthetic-00067,"For this particular repair, the quoted price changed after I arrived at the dealership The experience needs improvement.",negative,sales_process,true
+synthetic-00002,"When I picked up the car, staff answered my questions without pressuring me The experience met my expectations.",positive,sales_process,true
+synthetic-00064,"For a first-time buyer, the quoted price changed after I arrived at the dealership I would ask for everything in writing next time.",negative,sales_process,true
+synthetic-00593,"During the service appointment, several fees appeared on the contract without explanation I would ask for everything in writing next time.",negative,pricing,true
+synthetic-00083,"For this particular repair, i felt rushed and nobody explained the extra fees I would ask for everything in writing next time.",negative,sales_process,true
+synthetic-00419,"When I picked up the car, the service advisor sent clear updates throughout the repair The experience met my expectations.",positive,communication,true
+synthetic-00036,"At my recent visit, the salesperson explained every option and gave me time to decide I would recommend the team.",positive,sales_process,true
+synthetic-00252,"For a first-time buyer, i had to book a second visit because the repair was incomplete The experience needs improvement.",negative,service_quality,true
+synthetic-00048,"In my experience, staff answered my questions without pressuring me I appreciated the clear communication.",positive,sales_process,true
+synthetic-00025,"For this particular repair, the salesperson explained every option and gave me time to decide I appreciated the clear communication.",positive,sales_process,true
+synthetic-00487,"After comparing a few options, nobody returned my call about the repair estimate The experience needs improvement.",negative,communication,true
+synthetic-00485,"After comparing a few options, nobody returned my call about the repair estimate I would ask for everything in writing next time.",negative,communication,true
+synthetic-00045,"After comparing a few options, staff answered my questions without pressuring me I would use this dealership again.",positive,sales_process,true
+synthetic-00468,"For this particular repair, i had to repeat my issue to several different employees I would not recommend this process.",negative,communication,true
+synthetic-00219,"After speaking with the advisor, the technician explained what was fixed in plain language I would use this dealership again.",positive,service_quality,true
+synthetic-00208,"When I picked up the car, the inspection was thorough and the staff kept me informed I would recommend the team.",positive,service_quality,true
+synthetic-00554,"When I picked up the car, the repair cost much more than the estimate with no prior call I would ask for everything in writing next time.",negative,pricing,true
+synthetic-00503,"After speaking with the advisor, the advisor explained the cost before starting the repair I appreciated the clear communication.",positive,pricing,true
+synthetic-00152,"For this particular repair, the car had a warning light that was not mentioned in the listing I still need the issue resolved.",negative,vehicle_condition,true
+synthetic-00471,"At my recent visit, i had to repeat my issue to several different employees The experience needs improvement.",negative,communication,true
+synthetic-00008,"For this particular repair, the salesperson explained every option and gave me time to decide I would use this dealership again.",positive,sales_process,true
+synthetic-00329,"During the service appointment, my appointment started on time and the inspection was quick I would recommend the team.",positive,wait_time,true
+synthetic-00335,"In my experience, the team gave me an accurate estimate and finished early I would use this dealership again.",positive,wait_time,true
+synthetic-00235,"For a first-time buyer, the service team diagnosed the issue and finished the repair on time I would use this dealership again.",positive,service_quality,true
+synthetic-00583,"At my recent visit, the repair cost much more than the estimate with no prior call I would ask for everything in writing next time.",negative,pricing,true
+synthetic-00396,"After comparing a few options, the check-in line was long and the promised pickup time was missed The experience needs improvement.",negative,wait_time,true
+synthetic-00058,"For this particular repair, the salesperson ignored my questions about the vehicle history I would not recommend this process.",negative,sales_process,true
+synthetic-00543,"At my recent visit, the advisor explained the cost before starting the repair The experience met my expectations.",positive,pricing,true
+synthetic-00328,"After speaking with the advisor, the waiting area was comfortable during a short service visit The experience met my expectations.",positive,wait_time,true
+synthetic-00240,"During the service appointment, the technician explained what was fixed in plain language I would use this dealership again.",positive,service_quality,true
+synthetic-00509,"After comparing a few options, the advisor explained the cost before starting the repair The experience met my expectations.",positive,pricing,true
+synthetic-00069,"After speaking with the advisor, the salesperson ignored my questions about the vehicle history I would ask for everything in writing next time.",negative,sales_process,true
+synthetic-00253,"For this particular repair, the service department did not explain the extra work on my invoice I would ask for everything in writing next time.",negative,service_quality,true
+synthetic-00420,"At my recent visit, i received a prompt callback and helpful answers I would use this dealership again.",positive,communication,true
+synthetic-00346,"At my recent visit, the waiting area was comfortable during a short service visit I would use this dealership again.",positive,wait_time,true
+synthetic-00233,"For this particular repair, the inspection was thorough and the staff kept me informed I would use this dealership again.",positive,service_quality,true
+synthetic-00146,"After speaking with the advisor, the car was clean, inspected, and ready for the test drive I appreciated the clear communication.",positive,vehicle_condition,true
+synthetic-00172,"When I picked up the car, the car had a warning light that was not mentioned in the listing I still need the issue resolved.",negative,vehicle_condition,true
+synthetic-00055,"After speaking with the advisor, i felt rushed and nobody explained the extra fees I still need the issue resolved.",negative,sales_process,true
+synthetic-00360,"For a first-time buyer, the check-in line was long and the promised pickup time was missed The experience needs improvement.",negative,wait_time,true
+synthetic-00005,"At my recent visit, the salesperson explained every option and gave me time to decide I would recommend the team.",positive,sales_process,true
+synthetic-00295,"For a first-time buyer, the original problem remained after the repair appointment I would not recommend this process.",negative,service_quality,true
+synthetic-00341,"After speaking with the advisor, my appointment started on time and the inspection was quick I would use this dealership again.",positive,wait_time,true
+synthetic-00096,"When I picked up the car, the salesperson ignored my questions about the vehicle history The experience needs improvement.",negative,sales_process,true
+synthetic-00558,"After speaking with the advisor, several fees appeared on the contract without explanation I would ask for everything in writing next time.",negative,pricing,true
+synthetic-00204,"After comparing a few options, the technician explained what was fixed in plain language I would recommend the team.",positive,service_quality,true
+synthetic-00019,"For a first-time buyer, the salesperson explained every option and gave me time to decide I would recommend the team.",positive,sales_process,true
+synthetic-00091,"After comparing a few options, i felt rushed and nobody explained the extra fees I still need the issue resolved.",negative,sales_process,true
+synthetic-00523,"For this particular repair, the advisor explained the cost before starting the repair I would recommend the team.",positive,pricing,true
+synthetic-00090,"After comparing a few options, the quoted price changed after I arrived at the dealership I still need the issue resolved.",negative,sales_process,true
+synthetic-00492,"After comparing a few options, nobody returned my call about the repair estimate I would ask for everything in writing next time.",negative,communication,true
+synthetic-00560,"After speaking with the advisor, several fees appeared on the contract without explanation I would ask for everything in writing next time.",negative,pricing,true
+synthetic-00119,"For a first-time buyer, the car was clean, inspected, and ready for the test drive I would recommend the team.",positive,vehicle_condition,true
+synthetic-00348,"During the service appointment, the waiting area was comfortable during a short service visit I would recommend the team.",positive,wait_time,true
+synthetic-00046,"For a first-time buyer, staff answered my questions without pressuring me The experience met my expectations.",positive,sales_process,true
+synthetic-00031,"For this particular repair, staff answered my questions without pressuring me The experience met my expectations.",positive,sales_process,true
+synthetic-00147,"During the service appointment, delivery was well prepared and the car looked excellent I would use this dealership again.",positive,vehicle_condition,true
+synthetic-00165,"During the service appointment, the vehicle was not ready when I arrived for pickup The experience needs improvement.",negative,vehicle_condition,true
+synthetic-00339,"After speaking with the advisor, my appointment started on time and the inspection was quick I would use this dealership again.",positive,wait_time,true
+synthetic-00103,"At my recent visit, delivery was well prepared and the car looked excellent I would use this dealership again.",positive,vehicle_condition,true
+synthetic-00384,"During the service appointment, i waited an hour past my appointment with no update I would ask for everything in writing next time.",negative,wait_time,true
+synthetic-00449,"After speaking with the advisor, the service advisor sent clear updates throughout the repair I would recommend the team.",positive,communication,true
+synthetic-00575,"After comparing a few options, the final bill included charges that were never approved I still need the issue resolved.",negative,pricing,true
+synthetic-00081,"At my recent visit, i felt rushed and nobody explained the extra fees I still need the issue resolved.",negative,sales_process,true
+synthetic-00506,"After comparing a few options, the advisor explained the cost before starting the repair I would recommend the team.",positive,pricing,true
+synthetic-00003,"During the service appointment, the salesperson explained every option and gave me time to decide I would recommend the team.",positive,sales_process,true
+synthetic-00564,"In my experience, several fees appeared on the contract without explanation I would ask for everything in writing next time.",negative,pricing,true
+synthetic-00325,"In my experience, my appointment started on time and the inspection was quick I would recommend the team.",positive,wait_time,true
+synthetic-00395,"After speaking with the advisor, the repair took all day and nobody called to explain the delay The experience needs improvement.",negative,wait_time,true
+synthetic-00445,"At my recent visit, i received a prompt callback and helpful answers I appreciated the clear communication.",positive,communication,true
+synthetic-00430,"During the service appointment, the service advisor sent clear updates throughout the repair The experience met my expectations.",positive,communication,true
+synthetic-00530,"At my recent visit, the invoice matched the written estimate and had no surprise fees I appreciated the clear communication.",positive,pricing,true
+synthetic-00424,"After speaking with the advisor, the service advisor sent clear updates throughout the repair I would recommend the team.",positive,communication,true
+synthetic-00120,"After speaking with the advisor, the vehicle matched the listing and drove smoothly The experience met my expectations.",positive,vehicle_condition,true
+synthetic-00361,"In my experience, i waited an hour past my appointment with no update I still need the issue resolved.",negative,wait_time,true
+synthetic-00596,"When I picked up the car, several fees appeared on the contract without explanation I would not recommend this process.",negative,pricing,true
+synthetic-00026,"For a first-time buyer, the buying process was clear and the final paperwork matched the quote I would use this dealership again.",positive,sales_process,true
+synthetic-00477,"During the service appointment, i had to repeat my issue to several different employees I would ask for everything in writing next time.",negative,communication,true
+synthetic-00123,"In my experience, delivery was well prepared and the car looked excellent I appreciated the clear communication.",positive,vehicle_condition,true
+synthetic-00301,"When I picked up the car, my appointment started on time and the inspection was quick I appreciated the clear communication.",positive,wait_time,true
+synthetic-00463,"In my experience, the dealership gave conflicting updates about when the car would be ready I still need the issue resolved.",negative,communication,true
+synthetic-00056,"For a first-time buyer, the salesperson ignored my questions about the vehicle history I would ask for everything in writing next time.",negative,sales_process,true
+synthetic-00390,"After comparing a few options, the check-in line was long and the promised pickup time was missed The experience needs improvement.",negative,wait_time,true
+synthetic-00140,"For a first-time buyer, delivery was well prepared and the car looked excellent I would use this dealership again.",positive,vehicle_condition,true
+synthetic-00490,"In my experience, nobody returned my call about the repair estimate The experience needs improvement.",negative,communication,true
+synthetic-00139,"After speaking with the advisor, the car was clean, inspected, and ready for the test drive I would recommend the team.",positive,vehicle_condition,true
+synthetic-00276,"At my recent visit, i had to book a second visit because the repair was incomplete I still need the issue resolved.",negative,service_quality,true
+synthetic-00104,"After comparing a few options, delivery was well prepared and the car looked excellent The experience met my expectations.",positive,vehicle_condition,true
+synthetic-00110,"After speaking with the advisor, delivery was well prepared and the car looked excellent I would use this dealership again.",positive,vehicle_condition,true
+synthetic-00357,"After comparing a few options, the repair took all day and nobody called to explain the delay The experience needs improvement.",negative,wait_time,true
+synthetic-00132,"In my experience, delivery was well prepared and the car looked excellent I would recommend the team.",positive,vehicle_condition,true
+synthetic-00227,"For this particular repair, the inspection was thorough and the staff kept me informed I appreciated the clear communication.",positive,service_quality,true
+synthetic-00178,"For this particular repair, the vehicle was not ready when I arrived for pickup The experience needs improvement.",negative,vehicle_condition,true
+synthetic-00041,"When I picked up the car, staff answered my questions without pressuring me I would use this dealership again.",positive,sales_process,true
+synthetic-00350,"For a first-time buyer, my appointment started on time and the inspection was quick The experience met my expectations.",positive,wait_time,true
+synthetic-00022,"In my experience, the buying process was clear and the final paperwork matched the quote The experience met my expectations.",positive,sales_process,true
+synthetic-00149,"For a first-time buyer, the vehicle matched the listing and drove smoothly I appreciated the clear communication.",positive,vehicle_condition,true
+synthetic-00582,"During the service appointment, the final bill included charges that were never approved I still need the issue resolved.",negative,pricing,true
+synthetic-00177,"After speaking with the advisor, there was an undisclosed scratch on the car at delivery The experience needs improvement.",negative,vehicle_condition,true
+synthetic-00203,"After comparing a few options, the service team diagnosed the issue and finished the repair on time The experience met my expectations.",positive,service_quality,true
+synthetic-00415,"When I picked up the car, i received a prompt callback and helpful answers I would use this dealership again.",positive,communication,true
+synthetic-00279,"For this particular repair, the original problem remained after the repair appointment I would ask for everything in writing next time.",negative,service_quality,true
+synthetic-00374,"After comparing a few options, the repair took all day and nobody called to explain the delay I would ask for everything in writing next time.",negative,wait_time,true
+synthetic-00410,"After comparing a few options, the service advisor sent clear updates throughout the repair I would recommend the team.",positive,communication,true
+synthetic-00063,"At my recent visit, the quoted price changed after I arrived at the dealership I would ask for everything in writing next time.",negative,sales_process,true
+synthetic-00569,"In my experience, the repair cost much more than the estimate with no prior call I would ask for everything in writing next time.",negative,pricing,true
+synthetic-00141,"After comparing a few options, the vehicle matched the listing and drove smoothly I would use this dealership again.",positive,vehicle_condition,true
+synthetic-00287,"At my recent visit, the service department did not explain the extra work on my invoice I still need the issue resolved.",negative,service_quality,true
+synthetic-00179,"For a first-time buyer, there was an undisclosed scratch on the car at delivery The experience needs improvement.",negative,vehicle_condition,true
+synthetic-00422,"When I picked up the car, the team explained the warranty and next steps clearly I would use this dealership again.",positive,communication,true
+synthetic-00163,"For this particular repair, the car had a warning light that was not mentioned in the listing I would not recommend this process.",negative,vehicle_condition,true
+synthetic-00453,"After speaking with the advisor, i had to repeat my issue to several different employees I would not recommend this process.",negative,communication,true
+synthetic-00400,"In my experience, the check-in line was long and the promised pickup time was missed The experience needs improvement.",negative,wait_time,true
+synthetic-00388,"When I picked up the car, i waited an hour past my appointment with no update I would not recommend this process.",negative,wait_time,true
+synthetic-00573,"When I picked up the car, the repair cost much more than the estimate with no prior call The experience needs improvement.",negative,pricing,true
+synthetic-00391,"In my experience, the repair took all day and nobody called to explain the delay I would not recommend this process.",negative,wait_time,true
+synthetic-00116,"During the service appointment, the vehicle matched the listing and drove smoothly I appreciated the clear communication.",positive,vehicle_condition,true
+synthetic-00153,"After comparing a few options, the car had a warning light that was not mentioned in the listing I would ask for everything in writing next time.",negative,vehicle_condition,true
+synthetic-00493,"At my recent visit, nobody returned my call about the repair estimate I would ask for everything in writing next time.",negative,communication,true
+synthetic-00143,"When I picked up the car, delivery was well prepared and the car looked excellent I would use this dealership again.",positive,vehicle_condition,true
+synthetic-00127,"For this particular repair, the car was clean, inspected, and ready for the test drive I would use this dealership again.",positive,vehicle_condition,true
+synthetic-00099,"For a first-time buyer, the salesperson ignored my questions about the vehicle history I would ask for everything in writing next time.",negative,sales_process,true
+synthetic-00563,"After comparing a few options, the final bill included charges that were never approved I still need the issue resolved.",negative,pricing,true
+synthetic-00501,"For a first-time buyer, the advisor explained the cost before starting the repair I would use this dealership again.",positive,pricing,true
+synthetic-00590,"In my experience, the repair cost much more than the estimate with no prior call I still need the issue resolved.",negative,pricing,true
+synthetic-00355,"After speaking with the advisor, i waited an hour past my appointment with no update I would ask for everything in writing next time.",negative,wait_time,true
+synthetic-00330,"After speaking with the advisor, the waiting area was comfortable during a short service visit The experience met my expectations.",positive,wait_time,true
+synthetic-00519,"When I picked up the car, the invoice matched the written estimate and had no surprise fees The experience met my expectations.",positive,pricing,true
+synthetic-00448,"After speaking with the advisor, the team explained the warranty and next steps clearly I would use this dealership again.",positive,communication,true
+synthetic-00347,"At my recent visit, the team gave me an accurate estimate and finished early I would use this dealership again.",positive,wait_time,true
+synthetic-00182,"After speaking with the advisor, the vehicle was not ready when I arrived for pickup The experience needs improvement.",negative,vehicle_condition,true
+synthetic-00280,"In my experience, the service department did not explain the extra work on my invoice I would ask for everything in writing next time.",negative,service_quality,true
+synthetic-00176,"During the service appointment, the car had a warning light that was not mentioned in the listing I still need the issue resolved.",negative,vehicle_condition,true
+synthetic-00454,"When I picked up the car, i had to repeat my issue to several different employees I would ask for everything in writing next time.",negative,communication,true
+synthetic-00236,"During the service appointment, the service team diagnosed the issue and finished the repair on time The experience met my expectations.",positive,service_quality,true
+synthetic-00089,"After comparing a few options, the salesperson ignored my questions about the vehicle history I still need the issue resolved.",negative,sales_process,true
+synthetic-00404,"For this particular repair, i received a prompt callback and helpful answers The experience met my expectations.",positive,communication,true
+synthetic-00193,"After speaking with the advisor, the vehicle was not ready when I arrived for pickup I would ask for everything in writing next time.",negative,vehicle_condition,true
+synthetic-00270,"After speaking with the advisor, i had to book a second visit because the repair was incomplete I would ask for everything in writing next time.",negative,service_quality,true
+synthetic-00245,"For this particular repair, the technician explained what was fixed in plain language I appreciated the clear communication.",positive,service_quality,true
+synthetic-00340,"When I picked up the car, the waiting area was comfortable during a short service visit I would use this dealership again.",positive,wait_time,true
+synthetic-00167,"After speaking with the advisor, the car had a warning light that was not mentioned in the listing The experience needs improvement.",negative,vehicle_condition,true
+synthetic-00288,"In my experience, i had to book a second visit because the repair was incomplete The experience needs improvement.",negative,service_quality,true
+synthetic-00107,"For a first-time buyer, the vehicle matched the listing and drove smoothly I would use this dealership again.",positive,vehicle_condition,true
+synthetic-00475,"After comparing a few options, i had to repeat my issue to several different employees I still need the issue resolved.",negative,communication,true
+synthetic-00480,"In my experience, the dealership gave conflicting updates about when the car would be ready I would not recommend this process.",negative,communication,true
+synthetic-00532,"When I picked up the car, the advisor explained the cost before starting the repair I would recommend the team.",positive,pricing,true
+synthetic-00592,"At my recent visit, the repair cost much more than the estimate with no prior call I would not recommend this process.",negative,pricing,true
+synthetic-00373,"For this particular repair, the repair took all day and nobody called to explain the delay I still need the issue resolved.",negative,wait_time,true
+synthetic-00377,"For this particular repair, i waited an hour past my appointment with no update I would not recommend this process.",negative,wait_time,true
+synthetic-00242,"At my recent visit, the service team diagnosed the issue and finished the repair on time I would use this dealership again.",positive,service_quality,true
+synthetic-00467,"After comparing a few options, the dealership gave conflicting updates about when the car would be ready I would ask for everything in writing next time.",negative,communication,true
+synthetic-00484,"When I picked up the car, i had to repeat my issue to several different employees The experience needs improvement.",negative,communication,true
+synthetic-00211,"In my experience, the service team diagnosed the issue and finished the repair on time I would recommend the team.",positive,service_quality,true
+synthetic-00105,"After comparing a few options, the vehicle matched the listing and drove smoothly I would recommend the team.",positive,vehicle_condition,true
+synthetic-00570,"After comparing a few options, the final bill included charges that were never approved I would not recommend this process.",negative,pricing,true
+synthetic-00212,"For this particular repair, the technician explained what was fixed in plain language I would recommend the team.",positive,service_quality,true
+synthetic-00078,"At my recent visit, the salesperson ignored my questions about the vehicle history I would not recommend this process.",negative,sales_process,true
+synthetic-00215,"When I picked up the car, the service team diagnosed the issue and finished the repair on time I appreciated the clear communication.",positive,service_quality,true
+synthetic-00161,"At my recent visit, there was an undisclosed scratch on the car at delivery I would not recommend this process.",negative,vehicle_condition,true
+synthetic-00226,"For a first-time buyer, the inspection was thorough and the staff kept me informed I appreciated the clear communication.",positive,service_quality,true
+synthetic-00010,"When I picked up the car, the buying process was clear and the final paperwork matched the quote The experience met my expectations.",positive,sales_process,true
+synthetic-00098,"After comparing a few options, i felt rushed and nobody explained the extra fees I would not recommend this process.",negative,sales_process,true
+synthetic-00443,"After speaking with the advisor, the service advisor sent clear updates throughout the repair The experience met my expectations.",positive,communication,true
+synthetic-00359,"In my experience, the check-in line was long and the promised pickup time was missed I would not recommend this process.",negative,wait_time,true
+synthetic-00294,"At my recent visit, i had to book a second visit because the repair was incomplete The experience needs improvement.",negative,service_quality,true
+synthetic-00017,"After comparing a few options, staff answered my questions without pressuring me I would recommend the team.",positive,sales_process,true
+synthetic-00125,"After comparing a few options, the car was clean, inspected, and ready for the test drive I appreciated the clear communication.",positive,vehicle_condition,true
+synthetic-00502,"For this particular repair, the price was fair and every charge was itemized I appreciated the clear communication.",positive,pricing,true
+synthetic-00076,"For a first-time buyer, i felt rushed and nobody explained the extra fees I would not recommend this process.",negative,sales_process,true
+synthetic-00547,"For this particular repair, the advisor explained the cost before starting the repair I appreciated the clear communication.",positive,pricing,true
+synthetic-00397,"For this particular repair, the check-in line was long and the promised pickup time was missed I would not recommend this process.",negative,wait_time,true
+synthetic-00318,"After speaking with the advisor, the team gave me an accurate estimate and finished early I would use this dealership again.",positive,wait_time,true
+synthetic-00456,"After comparing a few options, nobody returned my call about the repair estimate I still need the issue resolved.",negative,communication,true
+synthetic-00436,"For this particular repair, i received a prompt callback and helpful answers I would use this dealership again.",positive,communication,true
+synthetic-00269,"For this particular repair, the original problem remained after the repair appointment I would ask for everything in writing next time.",negative,service_quality,true
+synthetic-00088,"During the service appointment, the salesperson ignored my questions about the vehicle history I would not recommend this process.",negative,sales_process,true
+synthetic-00246,"During the service appointment, the technician explained what was fixed in plain language I would recommend the team.",positive,service_quality,true
+synthetic-00441,"After comparing a few options, i received a prompt callback and helpful answers I would recommend the team.",positive,communication,true
+synthetic-00027,"For a first-time buyer, the salesperson explained every option and gave me time to decide I would recommend the team.",positive,sales_process,true
+synthetic-00370,"After comparing a few options, the check-in line was long and the promised pickup time was missed The experience needs improvement.",negative,wait_time,true
+synthetic-00117,"At my recent visit, the car was clean, inspected, and ready for the test drive I would use this dealership again.",positive,vehicle_condition,true
+synthetic-00512,"In my experience, the price was fair and every charge was itemized The experience met my expectations.",positive,pricing,true
+synthetic-00589,"After comparing a few options, the repair cost much more than the estimate with no prior call The experience needs improvement.",negative,pricing,true
+synthetic-00398,"In my experience, i waited an hour past my appointment with no update I still need the issue resolved.",negative,wait_time,true
+synthetic-00401,"When I picked up the car, the team explained the warranty and next steps clearly I appreciated the clear communication.",positive,communication,true
+synthetic-00549,"For this particular repair, the price was fair and every charge was itemized I would use this dealership again.",positive,pricing,true
+synthetic-00136,"In my experience, delivery was well prepared and the car looked excellent I appreciated the clear communication.",positive,vehicle_condition,true
+synthetic-00576,"For this particular repair, the final bill included charges that were never approved I still need the issue resolved.",negative,pricing,true
+synthetic-00306,"In my experience, the team gave me an accurate estimate and finished early The experience met my expectations.",positive,wait_time,true
+synthetic-00014,"For this particular repair, the salesperson explained every option and gave me time to decide I would recommend the team.",positive,sales_process,true
+synthetic-00323,"After comparing a few options, my appointment started on time and the inspection was quick I appreciated the clear communication.",positive,wait_time,true
+synthetic-00353,"In my experience, the repair took all day and nobody called to explain the delay I would not recommend this process.",negative,wait_time,true
+synthetic-00513,"After comparing a few options, the advisor explained the cost before starting the repair I would use this dealership again.",positive,pricing,true
+synthetic-00408,"When I picked up the car, the team explained the warranty and next steps clearly I would use this dealership again.",positive,communication,true
+synthetic-00158,"After comparing a few options, the car had a warning light that was not mentioned in the listing The experience needs improvement.",negative,vehicle_condition,true
+synthetic-00299,"For this particular repair, the original problem remained after the repair appointment I still need the issue resolved.",negative,service_quality,true
+synthetic-00214,"During the service appointment, the inspection was thorough and the staff kept me informed I appreciated the clear communication.",positive,service_quality,true
+synthetic-00057,"In my experience, i felt rushed and nobody explained the extra fees The experience needs improvement.",negative,sales_process,true
+synthetic-00345,"During the service appointment, the waiting area was comfortable during a short service visit I would recommend the team.",positive,wait_time,true
+synthetic-00170,"For this particular repair, the car had a warning light that was not mentioned in the listing I still need the issue resolved.",negative,vehicle_condition,true
+synthetic-00189,"After speaking with the advisor, the car had a warning light that was not mentioned in the listing I still need the issue resolved.",negative,vehicle_condition,true
+synthetic-00525,"For a first-time buyer, the price was fair and every charge was itemized The experience met my expectations.",positive,pricing,true
+synthetic-00418,"In my experience, the service advisor sent clear updates throughout the repair I would use this dealership again.",positive,communication,true
+synthetic-00244,"At my recent visit, the service team diagnosed the issue and finished the repair on time I would use this dealership again.",positive,service_quality,true
+synthetic-00460,"During the service appointment, the dealership gave conflicting updates about when the car would be ready I would not recommend this process.",negative,communication,true
+synthetic-00529,"After comparing a few options, the price was fair and every charge was itemized I would use this dealership again.",positive,pricing,true
+synthetic-00363,"When I picked up the car, the check-in line was long and the promised pickup time was missed The experience needs improvement.",negative,wait_time,true
+synthetic-00594,"During the service appointment, the final bill included charges that were never approved I would ask for everything in writing next time.",negative,pricing,true
+synthetic-00273,"In my experience, i had to book a second visit because the repair was incomplete I would ask for everything in writing next time.",negative,service_quality,true
+synthetic-00486,"After speaking with the advisor, the dealership gave conflicting updates about when the car would be ready I would ask for everything in writing next time.",negative,communication,true
+synthetic-00425,"At my recent visit, the service advisor sent clear updates throughout the repair I would recommend the team.",positive,communication,true
+synthetic-00260,"For this particular repair, the service department did not explain the extra work on my invoice I would ask for everything in writing next time.",negative,service_quality,true
+synthetic-00173,"In my experience, the vehicle was not ready when I arrived for pickup I would ask for everything in writing next time.",negative,vehicle_condition,true
+synthetic-00304,"For this particular repair, my appointment started on time and the inspection was quick I appreciated the clear communication.",positive,wait_time,true
+synthetic-00154,"In my experience, the car had a warning light that was not mentioned in the listing I would not recommend this process.",negative,vehicle_condition,true
+synthetic-00432,"For this particular repair, i received a prompt callback and helpful answers I appreciated the clear communication.",positive,communication,true
+synthetic-00379,"In my experience, i waited an hour past my appointment with no update I still need the issue resolved.",negative,wait_time,true
+synthetic-00541,"At my recent visit, the invoice matched the written estimate and had no surprise fees I would use this dealership again.",positive,pricing,true
+synthetic-00497,"After speaking with the advisor, nobody returned my call about the repair estimate I would ask for everything in writing next time.",negative,communication,true
+synthetic-00599,"During the service appointment, several fees appeared on the contract without explanation I still need the issue resolved.",negative,pricing,true
+synthetic-00546,"In my experience, the invoice matched the written estimate and had no surprise fees I appreciated the clear communication.",positive,pricing,true
+synthetic-00314,"During the service appointment, the waiting area was comfortable during a short service visit I appreciated the clear communication.",positive,wait_time,true
+synthetic-00168,"For this particular repair, there was an undisclosed scratch on the car at delivery The experience needs improvement.",negative,vehicle_condition,true
+synthetic-00072,"After speaking with the advisor, the quoted price changed after I arrived at the dealership I would ask for everything in writing next time.",negative,sales_process,true
+synthetic-00264,"For a first-time buyer, i had to book a second visit because the repair was incomplete The experience needs improvement.",negative,service_quality,true
+synthetic-00458,"After comparing a few options, nobody returned my call about the repair estimate I still need the issue resolved.",negative,communication,true
+synthetic-00311,"During the service appointment, my appointment started on time and the inspection was quick I would use this dealership again.",positive,wait_time,true
+synthetic-00077,"After comparing a few options, i felt rushed and nobody explained the extra fees I would not recommend this process.",negative,sales_process,true
+synthetic-00234,"When I picked up the car, the technician explained what was fixed in plain language The experience met my expectations.",positive,service_quality,true
+synthetic-00266,"During the service appointment, the service department did not explain the extra work on my invoice I would not recommend this process.",negative,service_quality,true
+synthetic-00243,"During the service appointment, the inspection was thorough and the staff kept me informed I appreciated the clear communication.",positive,service_quality,true
+synthetic-00412,"At my recent visit, the service advisor sent clear updates throughout the repair I would use this dealership again.",positive,communication,true
+synthetic-00171,"For this particular repair, the vehicle was not ready when I arrived for pickup I would not recommend this process.",negative,vehicle_condition,true
+synthetic-00366,"After comparing a few options, i waited an hour past my appointment with no update I still need the issue resolved.",negative,wait_time,true
+synthetic-00071,"At my recent visit, the salesperson ignored my questions about the vehicle history I would not recommend this process.",negative,sales_process,true
+synthetic-00020,"When I picked up the car, the buying process was clear and the final paperwork matched the quote I appreciated the clear communication.",positive,sales_process,true
+synthetic-00539,"For this particular repair, the invoice matched the written estimate and had no surprise fees I would recommend the team.",positive,pricing,true
+synthetic-00021,"In my experience, staff answered my questions without pressuring me The experience met my expectations.",positive,sales_process,true
+synthetic-00257,"After comparing a few options, i had to book a second visit because the repair was incomplete I still need the issue resolved.",negative,service_quality,true
+synthetic-00206,"For a first-time buyer, the inspection was thorough and the staff kept me informed I would recommend the team.",positive,service_quality,true
+synthetic-00261,"For a first-time buyer, the original problem remained after the repair appointment I would ask for everything in writing next time.",negative,service_quality,true
+synthetic-00309,"For this particular repair, the team gave me an accurate estimate and finished early I appreciated the clear communication.",positive,wait_time,true
+synthetic-00102,"For this particular repair, the car was clean, inspected, and ready for the test drive I would use this dealership again.",positive,vehicle_condition,true
+synthetic-00074,"For this particular repair, the quoted price changed after I arrived at the dealership I still need the issue resolved.",negative,sales_process,true
+synthetic-00387,"In my experience, i waited an hour past my appointment with no update I would not recommend this process.",negative,wait_time,true
+synthetic-00188,"At my recent visit, the vehicle was not ready when I arrived for pickup I would not recommend this process.",negative,vehicle_condition,true
+synthetic-00481,"After comparing a few options, i had to repeat my issue to several different employees The experience needs improvement.",negative,communication,true
+synthetic-00286,"At my recent visit, the service department did not explain the extra work on my invoice The experience needs improvement.",negative,service_quality,true
+synthetic-00174,"After comparing a few options, the car had a warning light that was not mentioned in the listing I still need the issue resolved.",negative,vehicle_condition,true
+synthetic-00407,"After speaking with the advisor, i received a prompt callback and helpful answers I would use this dealership again.",positive,communication,true
+synthetic-00192,"For this particular repair, there was an undisclosed scratch on the car at delivery I would ask for everything in writing next time.",negative,vehicle_condition,true
+synthetic-00202,"When I picked up the car, the inspection was thorough and the staff kept me informed I would use this dealership again.",positive,service_quality,true
+synthetic-00531,"At my recent visit, the advisor explained the cost before starting the repair I appreciated the clear communication.",positive,pricing,true
+synthetic-00066,"During the service appointment, the salesperson ignored my questions about the vehicle history The experience needs improvement.",negative,sales_process,true
+synthetic-00061,"For a first-time buyer, the salesperson ignored my questions about the vehicle history I would not recommend this process.",negative,sales_process,true
+synthetic-00313,"For this particular repair, the waiting area was comfortable during a short service visit I would recommend the team.",positive,wait_time,true
+synthetic-00574,"When I picked up the car, the final bill included charges that were never approved The experience needs improvement.",negative,pricing,true
+synthetic-00320,"After comparing a few options, the waiting area was comfortable during a short service visit The experience met my expectations.",positive,wait_time,true
+synthetic-00423,"At my recent visit, i received a prompt callback and helpful answers The experience met my expectations.",positive,communication,true
+synthetic-00144,"After speaking with the advisor, delivery was well prepared and the car looked excellent I would use this dealership again.",positive,vehicle_condition,true
+synthetic-00282,"After speaking with the advisor, the service department did not explain the extra work on my invoice The experience needs improvement.",negative,service_quality,true
+synthetic-00392,"For a first-time buyer, the repair took all day and nobody called to explain the delay I would not recommend this process.",negative,wait_time,true
+synthetic-00231,"In my experience, the inspection was thorough and the staff kept me informed I appreciated the clear communication.",positive,service_quality,true
+synthetic-00259,"At my recent visit, the original problem remained after the repair appointment The experience needs improvement.",negative,service_quality,true
+synthetic-00198,"For a first-time buyer, there was an undisclosed scratch on the car at delivery I would not recommend this process.",negative,vehicle_condition,true
+synthetic-00038,"After comparing a few options, staff answered my questions without pressuring me I appreciated the clear communication.",positive,sales_process,true
+synthetic-00296,"After comparing a few options, the service department did not explain the extra work on my invoice I still need the issue resolved.",negative,service_quality,true
+synthetic-00372,"In my experience, i waited an hour past my appointment with no update I still need the issue resolved.",negative,wait_time,true
+synthetic-00200,"For this particular repair, there was an undisclosed scratch on the car at delivery I would not recommend this process.",negative,vehicle_condition,true
+synthetic-00053,"During the service appointment, the salesperson ignored my questions about the vehicle history I still need the issue resolved.",negative,sales_process,true
+synthetic-00411,"After comparing a few options, i received a prompt callback and helpful answers I would use this dealership again.",positive,communication,true
+synthetic-00598,"When I picked up the car, the final bill included charges that were never approved I would not recommend this process.",negative,pricing,true
+synthetic-00520,"After speaking with the advisor, the invoice matched the written estimate and had no surprise fees I would recommend the team.",positive,pricing,true
+synthetic-00413,"After comparing a few options, the team explained the warranty and next steps clearly I appreciated the clear communication.",positive,communication,true
+synthetic-00375,"In my experience, the check-in line was long and the promised pickup time was missed I would not recommend this process.",negative,wait_time,true
+synthetic-00271,"For this particular repair, i had to book a second visit because the repair was incomplete The experience needs improvement.",negative,service_quality,true
+synthetic-00138,"For a first-time buyer, delivery was well prepared and the car looked excellent I would use this dealership again.",positive,vehicle_condition,true
+synthetic-00442,"After speaking with the advisor, i received a prompt callback and helpful answers The experience met my expectations.",positive,communication,true
+synthetic-00111,"At my recent visit, the car was clean, inspected, and ready for the test drive I would use this dealership again.",positive,vehicle_condition,true
+synthetic-00009,"During the service appointment, the salesperson explained every option and gave me time to decide I appreciated the clear communication.",positive,sales_process,true
+synthetic-00293,"During the service appointment, i had to book a second visit because the repair was incomplete I would ask for everything in writing next time.",negative,service_quality,true
+synthetic-00482,"When I picked up the car, i had to repeat my issue to several different employees I still need the issue resolved.",negative,communication,true
+synthetic-00507,"After comparing a few options, the advisor explained the cost before starting the repair The experience met my expectations.",positive,pricing,true
+synthetic-00289,"For this particular repair, i had to book a second visit because the repair was incomplete I would not recommend this process.",negative,service_quality,true
+synthetic-00555,"After speaking with the advisor, the repair cost much more than the estimate with no prior call I still need the issue resolved.",negative,pricing,true
+synthetic-00050,"For a first-time buyer, the buying process was clear and the final paperwork matched the quote I would recommend the team.",positive,sales_process,true
+synthetic-00362,"After comparing a few options, the check-in line was long and the promised pickup time was missed The experience needs improvement.",negative,wait_time,true
+synthetic-00221,"For this particular repair, the service team diagnosed the issue and finished the repair on time The experience met my expectations.",positive,service_quality,true
+synthetic-00247,"For this particular repair, the technician explained what was fixed in plain language I would recommend the team.",positive,service_quality,true
+synthetic-00469,"In my experience, nobody returned my call about the repair estimate I would ask for everything in writing next time.",negative,communication,true
+synthetic-00518,"At my recent visit, the advisor explained the cost before starting the repair I would recommend the team.",positive,pricing,true
+synthetic-00403,"After comparing a few options, the team explained the warranty and next steps clearly The experience met my expectations.",positive,communication,true
+synthetic-00093,"In my experience, i felt rushed and nobody explained the extra fees I would ask for everything in writing next time.",negative,sales_process,true
+synthetic-00024,"During the service appointment, staff answered my questions without pressuring me The experience met my expectations.",positive,sales_process,true
+synthetic-00597,"For a first-time buyer, the repair cost much more than the estimate with no prior call I would ask for everything in writing next time.",negative,pricing,true
+synthetic-00316,"When I picked up the car, the team gave me an accurate estimate and finished early I would use this dealership again.",positive,wait_time,true
+synthetic-00545,"In my experience, the price was fair and every charge was itemized I would use this dealership again.",positive,pricing,true
+synthetic-00479,"In my experience, i had to repeat my issue to several different employees I would not recommend this process.",negative,communication,true
+synthetic-00566,"For this particular repair, several fees appeared on the contract without explanation I would ask for everything in writing next time.",negative,pricing,true
+synthetic-00511,"At my recent visit, the advisor explained the cost before starting the repair I appreciated the clear communication.",positive,pricing,true
+synthetic-00550,"When I picked up the car, the price was fair and every charge was itemized I would recommend the team.",positive,pricing,true
+synthetic-00195,"At my recent visit, the vehicle was not ready when I arrived for pickup I would not recommend this process.",negative,vehicle_condition,true
+synthetic-00572,"After speaking with the advisor, several fees appeared on the contract without explanation I would not recommend this process.",negative,pricing,true
+synthetic-00336,"After speaking with the advisor, the waiting area was comfortable during a short service visit I would use this dealership again.",positive,wait_time,true
+synthetic-00164,"For a first-time buyer, the car had a warning light that was not mentioned in the listing I would not recommend this process.",negative,vehicle_condition,true
+synthetic-00255,"At my recent visit, i had to book a second visit because the repair was incomplete I would not recommend this process.",negative,service_quality,true
+synthetic-00429,"In my experience, the team explained the warranty and next steps clearly I would recommend the team.",positive,communication,true
+synthetic-00394,"At my recent visit, the check-in line was long and the promised pickup time was missed I would not recommend this process.",negative,wait_time,true
+synthetic-00298,"For this particular repair, the service department did not explain the extra work on my invoice The experience needs improvement.",negative,service_quality,true
+synthetic-00052,"For this particular repair, the salesperson ignored my questions about the vehicle history I would not recommend this process.",negative,sales_process,true
+synthetic-00100,"In my experience, the quoted price changed after I arrived at the dealership I would not recommend this process.",negative,sales_process,true
+synthetic-00145,"When I picked up the car, the vehicle matched the listing and drove smoothly The experience met my expectations.",positive,vehicle_condition,true
+synthetic-00254,"After speaking with the advisor, i had to book a second visit because the repair was incomplete I would ask for everything in writing next time.",negative,service_quality,true
+synthetic-00461,"For this particular repair, nobody returned my call about the repair estimate The experience needs improvement.",negative,communication,true
+synthetic-00274,"After comparing a few options, the original problem remained after the repair appointment I still need the issue resolved.",negative,service_quality,true
+synthetic-00126,"For this particular repair, the car was clean, inspected, and ready for the test drive The experience met my expectations.",positive,vehicle_condition,true
+synthetic-00478,"When I picked up the car, i had to repeat my issue to several different employees The experience needs improvement.",negative,communication,true
+synthetic-00248,"After speaking with the advisor, the service team diagnosed the issue and finished the repair on time I appreciated the clear communication.",positive,service_quality,true
+synthetic-00571,"During the service appointment, several fees appeared on the contract without explanation The experience needs improvement.",negative,pricing,true
+synthetic-00109,"At my recent visit, the vehicle matched the listing and drove smoothly I would recommend the team.",positive,vehicle_condition,true
+synthetic-00528,"After speaking with the advisor, the price was fair and every charge was itemized The experience met my expectations.",positive,pricing,true
+synthetic-00380,"For a first-time buyer, i waited an hour past my appointment with no update I would not recommend this process.",negative,wait_time,true
+synthetic-00134,"When I picked up the car, delivery was well prepared and the car looked excellent I would recommend the team.",positive,vehicle_condition,true
+synthetic-00409,"For this particular repair, the service advisor sent clear updates throughout the repair I would recommend the team.",positive,communication,true
+synthetic-00354,"After comparing a few options, the repair took all day and nobody called to explain the delay I still need the issue resolved.",negative,wait_time,true
+synthetic-00327,"During the service appointment, the team gave me an accurate estimate and finished early The experience met my expectations.",positive,wait_time,true
+synthetic-00321,"When I picked up the car, the waiting area was comfortable during a short service visit The experience met my expectations.",positive,wait_time,true
+synthetic-00148,"At my recent visit, the vehicle matched the listing and drove smoothly I would use this dealership again.",positive,vehicle_condition,true
+synthetic-00349,"In my experience, the team gave me an accurate estimate and finished early I appreciated the clear communication.",positive,wait_time,true
+synthetic-00209,"At my recent visit, the inspection was thorough and the staff kept me informed I would use this dealership again.",positive,service_quality,true
+synthetic-00476,"For a first-time buyer, nobody returned my call about the repair estimate The experience needs improvement.",negative,communication,true
+synthetic-00496,"During the service appointment, the dealership gave conflicting updates about when the car would be ready The experience needs improvement.",negative,communication,true
+synthetic-00426,"For a first-time buyer, the team explained the warranty and next steps clearly I appreciated the clear communication.",positive,communication,true
+synthetic-00451,"In my experience, the dealership gave conflicting updates about when the car would be ready I would not recommend this process.",negative,communication,true
+synthetic-00162,"For a first-time buyer, the vehicle was not ready when I arrived for pickup I still need the issue resolved.",negative,vehicle_condition,true
+synthetic-00062,"At my recent visit, the quoted price changed after I arrived at the dealership I still need the issue resolved.",negative,sales_process,true
+synthetic-00075,"During the service appointment, i felt rushed and nobody explained the extra fees I would ask for everything in writing next time.",negative,sales_process,true
+synthetic-00465,"When I picked up the car, i had to repeat my issue to several different employees I would ask for everything in writing next time.",negative,communication,true
+synthetic-00305,"In my experience, the team gave me an accurate estimate and finished early I appreciated the clear communication.",positive,wait_time,true
+synthetic-00416,"For a first-time buyer, the service advisor sent clear updates throughout the repair The experience met my expectations.",positive,communication,true
+synthetic-00251,"After comparing a few options, the original problem remained after the repair appointment The experience needs improvement.",negative,service_quality,true
+synthetic-00495,"During the service appointment, nobody returned my call about the repair estimate I still need the issue resolved.",negative,communication,true
+synthetic-00310,"During the service appointment, the team gave me an accurate estimate and finished early I appreciated the clear communication.",positive,wait_time,true
+synthetic-00297,"When I picked up the car, the service department did not explain the extra work on my invoice I would ask for everything in writing next time.",negative,service_quality,true
+synthetic-00559,"At my recent visit, several fees appeared on the contract without explanation I would not recommend this process.",negative,pricing,true
+synthetic-00510,"In my experience, the advisor explained the cost before starting the repair I would recommend the team.",positive,pricing,true
+synthetic-00032,"During the service appointment, the buying process was clear and the final paperwork matched the quote The experience met my expectations.",positive,sales_process,true
+synthetic-00427,"For this particular repair, i received a prompt callback and helpful answers I would use this dealership again.",positive,communication,true
+synthetic-00586,"When I picked up the car, the final bill included charges that were never approved The experience needs improvement.",negative,pricing,true
+synthetic-00216,"After speaking with the advisor, the technician explained what was fixed in plain language I would use this dealership again.",positive,service_quality,true
+synthetic-00272,"At my recent visit, the original problem remained after the repair appointment The experience needs improvement.",negative,service_quality,true
+synthetic-00591,"During the service appointment, several fees appeared on the contract without explanation I still need the issue resolved.",negative,pricing,true
+synthetic-00047,"During the service appointment, the buying process was clear and the final paperwork matched the quote I would recommend the team.",positive,sales_process,true
+synthetic-00084,"For this particular repair, i felt rushed and nobody explained the extra fees I still need the issue resolved.",negative,sales_process,true
+synthetic-00030,"For this particular repair, the salesperson explained every option and gave me time to decide I appreciated the clear communication.",positive,sales_process,true
